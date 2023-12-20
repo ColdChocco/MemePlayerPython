@@ -16,7 +16,7 @@ If you want to stop these programs from running, enter command prompt, and type 
 # CHANGING SOUNDS:
 ### No editing python scirpt required!
 If you want to change any of the sounds, just delete the ones you don't like in the current directory. To add sounds, import it as a .wav file.
-### MAKE SURE IT'S ACTUALLY A WAV FILE (You can't just change the file extension in file explorer. You need to actually convert it using ffmpeg or a free online website)
+### MAKE SURE IT'S ACTUALLY A WAV FILE (You can't just change the file extension in file explorer. You need to actually convert it using ffmpeg or a free online website, I learnt the hard way)
 
 # HAVE FUN! :)
 ^ What he said ^
