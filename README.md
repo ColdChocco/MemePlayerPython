@@ -1,5 +1,5 @@
 # OVERVIEW:
-### This repository contains python programs that will play the .wav files in its directory every 60-500 seconds. In this repository, Quandale Dingle sounds are provided. You can choose between having the sounds play in your defaul media player, or have them play in the background so the victim wont know what's happening >:)
+### This repository contains python programs that will play the .wav files in its directory every 60-500 seconds. In this repository, Some meme sounds are provided. You can choose between having the sounds play in your defaul media player, or have them play in the background so the victim wont know what's happening >:)
 
 ## ONLY WORKS ON WINDOWS
 Tested on Windows 10. Should work on Windows 11. Idk about anything older.
