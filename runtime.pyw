@@ -16,4 +16,4 @@ while True:
 	# Use the OS command to play the song
 	winsound.PlaySound(song_to_play, winsound.SND_ASYNC)
 	
-	time.sleep(random.randint(60, 300))
+	time.sleep(random.randint(60, 500))
