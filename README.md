@@ -8,8 +8,8 @@ Tested on Windows 10. Should work on Windows 11. Idk about anything older.
 You will need to download python yourself (tested on Python 3.12).
 
 ### Run these files in `pythonw.exe`, NOT `python.exe`.
-`setup.pyw` DOESN'T PLAY THE FILES IN THE BACKGROUND. If you DO want the files to play in your CHOSEN MEDIA PLAYER, use this.  
-But in most cases, you'd want to use `runtime.pyw`. This WILL play the sounds in the BACKGROUND, as intended by most pranksters out there.
+`openplayer.pyw` DOESN'T PLAY THE FILES IN THE BACKGROUND. If you DO want the files to play in your CHOSEN MEDIA PLAYER, use this.  
+But in most cases, YOU'D WANT TO USE `runtime.pyw`. This WILL play the sounds in the BACKGROUND, as intended by most pranksters out there.
 
 If you want to stop these programs from running, enter command prompt, and type in `taskkill /IM pythonw.exe /F`. But *why would you ever want to do that???*
 
