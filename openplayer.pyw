@@ -5,7 +5,7 @@ import time
 # Get a list of all files in the current directory
 files = os.listdir(os.getcwd())
 
-# Filter out non-mp3 files
+# Filter out non-wav files
 songs = [file for file in files if file.endswith('.wav')]
 
 while True:
